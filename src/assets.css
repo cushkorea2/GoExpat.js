@@ -1,0 +1,18 @@
+// assets.js
+
+const assets = {
+  airplane: 'url_to_airplane_image.jpg',
+  luggage: 'url_to_luggage_image.jpg',
+  singleProfessional: 'url_to_single_professional_image.jpg',
+  seniorCitizens: 'url_to_senior_citizens_image.jpg',
+  youngCoupleWithChildren: 'url_to_young_couple_with_children_image.jpg',
+  spainImage: 'url_to_spain_image.jpg',
+  portugalImage: 'url_to_portugal_image.jpg',
+  costaRicaImage: 'url_to_costa_rica_image.jpg',
+  southAfricaImage: 'url_to_south_africa_image.jpg',
+  israelImage: 'url_to_israel_image.jpg',
+  visaImage: 'url_to_visa_image.jpg',
+  passportImage: 'url_to_passport_image.jpg',
+};
+
+export default assets;

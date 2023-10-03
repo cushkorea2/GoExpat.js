@@ -1,0 +1,122 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* styles.css */
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: seafoamgreen;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Header Styles */
+.header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.header h1 {
+  font-size: 2em;
+}
+
+/* Navigation Styles */
+.navbar {
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+/* Main Content Styles */
+.main-content {
+  padding: 20px;
+}
+
+/* Image Styles */
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.image-container img {
+  max-width: 30%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Card Styles */
+.card {
+  background-color: tan;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Blue Button */
+.btn-blue {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-blue:hover {
+  background-color: #003366;
+}
+
+/* Seafoam Green Button */
+.btn-seafoam {
+  background-color: seafoamgreen;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-seafoam:hover {
+  background-color: #2e8b57;
+}
